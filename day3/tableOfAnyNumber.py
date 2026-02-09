@@ -1,3 +1,5 @@
+# WAP to print multiplication table of any number.
+
 num = int(input("Enter a number: "))
 
 print(f"Multiplication table of {num}")

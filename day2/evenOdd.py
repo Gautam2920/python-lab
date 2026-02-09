@@ -1,3 +1,5 @@
+# WAP to check whether your roll number is odd or even.
+
 a = int(input("Enter your roll number:"))
 
 if a%2==0 :

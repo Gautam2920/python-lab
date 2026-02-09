@@ -1,3 +1,5 @@
+# WAP to validate your grades
+
 a = int(input("Enter your grades (in %): "))
 
 if a > 100 or a < 0:

@@ -1,3 +1,5 @@
+# WAP to print factorial of a number.
+
 num = int(input("Enter a number: "))
 
 factorial = 1

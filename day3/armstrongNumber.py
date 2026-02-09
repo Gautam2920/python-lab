@@ -1,3 +1,5 @@
+# WAP to check whether a number is an armstrom number.
+
 num = int(input("Enter a number: "))
 
 temp = num

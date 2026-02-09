@@ -1,3 +1,5 @@
+# WAP to check whether it is a leap year.
+
 a = int(input("Enter a year: "))
 
 if a % 4 == 0 and a % 100 != 0 or a % 400 == 0 :

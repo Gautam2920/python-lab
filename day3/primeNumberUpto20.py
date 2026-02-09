@@ -1,3 +1,5 @@
+# WAP to print prime numbers upto 20
+
 print("Prime numbers up to 20:")
 
 for num in range(2, 21):

@@ -1,3 +1,5 @@
+# WAP to print fibonacci series.
+
 n = int(input("Enter number of terms: "))
 
 a, b = 0, 1

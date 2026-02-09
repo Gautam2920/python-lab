@@ -1,3 +1,7 @@
+# WAP to calculate:
+#- Area and Circumference of circle.
+#- Area and perimeter of rectangle.
+
 import math
 
 a = int(input("Enter radius of circle: "))

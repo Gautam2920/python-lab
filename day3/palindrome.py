@@ -1,3 +1,5 @@
+# WAP to check whether a number is a palindrome or not
+
 num = int(input("Enter a number: "))
 
 temp = num
