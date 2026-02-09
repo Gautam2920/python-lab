@@ -1,4 +1,4 @@
-# WAP to check whether a number is an armstrom number.
+# WAP to check whether a number is an armstrong number.
 
 num = int(input("Enter a number: "))
 
