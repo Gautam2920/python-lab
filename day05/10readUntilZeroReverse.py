@@ -10,6 +10,5 @@ while True:
     
 numbers.sort()
 
-print("Numbers in ascending order:")
-for num in reversed(numbers):
-    print(num)
+numbers.reverse()
+print("Numbers in ascending order:", numbers)
