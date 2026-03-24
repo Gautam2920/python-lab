@@ -1,4 +1,4 @@
-# Find the frequency of each element in a tuple.
+# WAP to Find the frequency of each element in a tuple.
 
 elements = list(map(int, input("Enter elements seperated by space").split()))
 t = tuple(elements)

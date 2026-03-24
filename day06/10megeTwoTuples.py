@@ -1,4 +1,4 @@
-# Merge two tuples and remove duplicates.
+# WAP to Merge two tuples and remove duplicates.
 
 t1 = tuple(input("Enter elements of first tuple seperated by space").split())
 t2 = tuple(input("Enter elements of second tuple seperated by space").split())
